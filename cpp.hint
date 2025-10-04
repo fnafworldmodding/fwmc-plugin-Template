@@ -1,0 +1,2 @@
+#define $safeprojectname$_API __declspec(dllexport)
+#define $safeprojectname$_API __declspec(dllimport)
